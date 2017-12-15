@@ -39,4 +39,4 @@
 </div> <!-- /container -->
 
 
-%rebase layout/layout stylesheet=setdefault('stylesheet', '[]'), message=setdefault('message', ''), title=setdefault('title', 'Bottle MVC Skeleton')
+%rebase('layout/layout', stylesheet=setdefault('stylesheet', '[]'), message=setdefault('message', ''), title=setdefault('title', 'Twitter Stream Anaylzer'))
